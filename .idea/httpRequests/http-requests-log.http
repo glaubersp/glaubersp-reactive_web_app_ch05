@@ -1,0 +1,88 @@
+GET http://localhost:9000/loadStatistics
+
+<> 2019-02-24T111900.200.txt
+
+###
+
+GET http://localhost:9000/loadStatistics
+
+###
+
+GET http://localhost:9000/loadStatistics
+
+###
+
+GET http://localhost:9000/loadStatistics
+
+<> 2019-02-24T103938.200.txt
+
+###
+
+GET http://localhost:9000/loadStatistics?account=glaubersp
+
+<> 2019-02-24T103225.200.txt
+
+###
+
+GET http://localhost:9000/loadStatistics/glaubersp
+
+<> 2019-02-24T103123.404.html
+
+###
+
+GET http://localhost:9000/loadStatistics/glaubersp
+
+<> 2019-02-24T103007.500.html
+
+###
+
+GET http://localhost:9000/loadStatistics/glaubersp
+
+<> 2019-02-24T102933.404.html
+
+###
+
+GET http://localhost:9000/quiz/interactive/en/pt-BR
+
+<> 2019-02-24T102929.404.html
+
+###
+
+GET http://localhost:9000/loadStatistics/glaubersp
+
+###
+
+GET http://localhost:9000/teste
+
+<> 2019-02-23T094708.200.txt
+
+###
+
+GET http://localhost:9000/teste
+
+###
+
+GET http://localhost:9000/teste
+
+<> 2019-02-23T090234.200.txt
+
+###
+
+GET http://localhost:9000/teste
+
+<> 2019-02-23T085007.500.html
+
+###
+
+GET http://localhost:9000/teste
+
+<> 2019-02-23T084859.500.html
+
+###
+
+GET http://localhost:9000/teste
+
+<> 2019-02-23T084413.500.html
+
+###
+
